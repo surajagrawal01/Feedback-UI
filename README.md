@@ -24,8 +24,8 @@ To use the Feedback UI Project, follow these steps:
 
    Here's how you can clone and run the project locally:
 
-1. Clone the repository: ``
-2. Navigate to the project folder: `cd `
+1. Clone the repository: `https://github.com/surajagrawal01/Feedback-UI.git`
+2. Navigate to the project folder: `cd Feedback-UI`
 3. Open `index.html` in your preferred browser.
 
 ## File Structure
@@ -36,7 +36,7 @@ temperature-conversion/
 ├── Icons
 ├── index.html
 ├── styles.css
-├── script.js
+├── index.js
 │
 └── README.md
 - `Icons`: Containing the icons .
