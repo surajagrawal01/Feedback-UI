@@ -33,7 +33,7 @@ To use the Feedback UI Project, follow these steps:
 The project structure is as follows:
 
 temperature-conversion/
-├── Icons
+├── icons
 ├── index.html
 ├── styles.css
 ├── index.js
