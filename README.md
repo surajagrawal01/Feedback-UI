@@ -1,6 +1,6 @@
 # Feedback-UI
 Welcome to the Frontend Feedback UI repository!This UI kit is designed exclusively for frontend development, allowing you to seamlessly integrate it into your existing projects.
-https://surajagrawal01.github.io/Feedback-UI/
+Visit Link to get Preview: https://surajagrawal01.github.io/Feedback-UI/
 
 
 ## Description
